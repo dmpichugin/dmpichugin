@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Dmitry Pichugin. I’m currently working on checkout at @ozonru
+
+❤️ Go, Java and Typescript
 <!--
 **dmpichugin/dmpichugin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
