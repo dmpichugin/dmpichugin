@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dmitry Pichugin. I’m currently working on checkout at @ozonru
+My name is Dmitry Pichugin. I’m currently working on checkout at [@ozonru](https://github.com/ozonru)
 
 ❤️ Go, Java and Typescript
 <!--
