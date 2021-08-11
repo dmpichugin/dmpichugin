@@ -2,9 +2,9 @@
 
 My name is Dmitry Pichugin. I’m currently working on checkout at [@ozonru](https://github.com/ozonru)
 
-At the moment I am not ready to consider job offers
-
 ❤️ Go, Java and Typescript
+
+At the moment I am not ready to consider job offers
 <!--
 **dmpichugin/dmpichugin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
