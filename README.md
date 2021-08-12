@@ -4,7 +4,7 @@ My name is Dmitry Pichugin. I’m currently working on checkout at [@ozonru](htt
 
 ❤️ Go, Java and Typescript
 
-At the moment I am not ready to consider job offers
+I'm not available for hiring
 <!--
 **dmpichugin/dmpichugin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
