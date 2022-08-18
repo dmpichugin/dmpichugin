@@ -4,8 +4,8 @@ My name is Dmitry Pichugin. I’m currently working on delivery map at [@ozontec
 
 ❤️ Go, Java and Typescript
 
-I'm not available for hire
 <!--
+I'm not available for hire
 **dmpichugin/dmpichugin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
