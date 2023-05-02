@@ -2,7 +2,7 @@
 
 My name is Dmitry Pichugin. I’m currently working on delivery map at [@ozontech](https://github.com/ozontech) in geoservices team. ex checkout team
 
-❤️ Go, Java and Typescript
+❤️ Go, Java and Typescript, Unit tests and metrics
 
 <!--
 I'm not available for hire
