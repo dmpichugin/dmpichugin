@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Dmitry Pichugin. I’m currently working on delivery map at [@ozontech](https://github.com/ozontech) in geoservices team. ex checkout team
+My name is Dmitry Pichugin. I’m currently working on delivery map at [@ozontech](https://github.com/ozontech) in checkout team. 
+
+My path: checkout(2019 - 2021) -> geoservices(2021 - 2023) -> checkout (2023 - current time)
 
 ❤️ Go, Java and Typescript, Unit tests and metrics
 
